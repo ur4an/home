@@ -1,0 +1,7 @@
+-- SQLite
+CREATE TABLE shoes (
+id       INTEGER PRIMARY KEY AUTOINCREMENT,
+brand    VARCHAR(32),
+price    INTEGER,
+Madein  VARCHAR(32)
+)

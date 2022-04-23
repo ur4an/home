@@ -1,0 +1,1 @@
+select price from shoes where price > 100
